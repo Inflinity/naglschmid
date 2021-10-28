@@ -1,0 +1,13 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Bretagner-Matthias
+
+## Media
+
+### Titel
+panorama_CCDFBF0C_C0DE_D4BB_41E4_12367DDFA7D5.label = H0000 Panorama
