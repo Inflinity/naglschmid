@@ -1,0 +1,17 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Matthias
+
+## Media
+
+### Titel
+panorama_EADA8DD5_E66C_9FDA_41E7_4C8F779FDF55.label = H0000 Panorama
+video_EADF734B_E4E2_4241_41E0_E824D9765646.label = logo
+video_EBA98E7D_E4E1_C246_41E0_97AA7D41E7B6.label = kelpwald
+video_EBB81EA2_E4E6_42C3_41E7_496504BFE7A8.label = ipfs
+video_F6766298_E674_8449_41C2_907D1ADED367.label = opensea
