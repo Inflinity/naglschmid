@@ -5,16 +5,31 @@
 ### Beschreibung
 
 ### Titel
-tour.name = Matthias
+tour.name = Naglschmid
+
+## Skin
+
+### Label
+Label_2446BCEA_3789_C0F5_41BD_9B8F75CF7231.text = Datenschutz
+Label_25B6E5FD_3789_C0CE_41C9_E8D58FD744A8.text = We don`t use cookies
+Label_2653662A_378B_4375_41BF_BB7A4D0F9DE7.text = AGBs
+Label_2799B7EF_3799_C0CB_41B5_2B9DF7632083.text = Impressum
 
 ## Media
 
 ### Titel
-panorama_0FBFFB4E_03DB_998C_417F_0994201E298C.label = H0000 Panorama
+panorama_3B03819B_378B_414A_41C7_C517A442BADE.label = H0000 Panorama
 video_EADF734B_E4E2_4241_41E0_E824D9765646.label = logo
 video_EBA98E7D_E4E1_C246_41E0_97AA7D41E7B6.label = kelpwald
 video_EBB81EA2_E4E6_42C3_41E7_496504BFE7A8.label = ipfs
 video_F6766298_E674_8449_41C2_907D1ADED367.label = opensea
+
+## Popup
+
+### Body
+htmlText_24455CEB_3789_C0CB_41C8_A9407BE73FD4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_26545633_378B_435B_41C1_2438CFE963C7.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_26E64BEB_3796_C0CA_41C7_C3847D3C414E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Aktion
 
