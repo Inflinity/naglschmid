@@ -5,15 +5,15 @@
 ### Beschreibung
 
 ### Titel
-tour.name = Unbenannt 3
+tour.name = Naglschmid Store
 
 ## Media
 
 ### Untertitel
-panorama_6CD2625F_614A_406F_41AC_01321B6AFFB9.subtitle = Inspired by Heart
+panorama_6DC00C01_61E0_08D1_41D0_A956CF453FC0.subtitle = Inspired by Heart
 
 ### Titel
-panorama_6CD2625F_614A_406F_41AC_01321B6AFFB9.label = Naglschmid Store
+panorama_6DC00C01_61E0_08D1_41D0_A956CF453FC0.label = Naglschmid Store
 video_73AFFB48_6176_C051_41A7_647BF05F66DF.label = mantra
 
 ## Aktion
