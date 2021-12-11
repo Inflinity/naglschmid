@@ -15,6 +15,7 @@ panorama_6DC00C01_61E0_08D1_41D0_A956CF453FC0.subtitle = Inspired by Heart
 ### Titel
 panorama_6DC00C01_61E0_08D1_41D0_A956CF453FC0.label = Naglschmid Store
 video_73AFFB48_6176_C051_41A7_647BF05F66DF.label = mantra
+video_A70E075B_AABD_AA39_41DF_BBF58CC1FD6A.label = glitch_logo
 
 ## Aktion
 
