@@ -37,8 +37,8 @@
   }
  ],
  "name": "Naglschmid Store",
- "display": "fullscreen",
- "theme_color": "#000000",
  "start_url": "index.html",
- "background_color": "#000000"
+ "display": "fullscreen",
+ "background_color": "#000000",
+ "theme_color": "#000000"
 }
