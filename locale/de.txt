@@ -1,30 +1,13 @@
 #: locale=de
 
+## Media
+
+### Titel
+panorama_C67549DA_CDC0_1712_41E0_9A65FA01D0D9.label = T0000 Panorama
+
 ## Tour
 
 ### Beschreibung
 
 ### Titel
-tour.name = Naglschmid Store
-
-## Media
-
-### Untertitel
-panorama_6DC00C01_61E0_08D1_41D0_A956CF453FC0.subtitle = Inspired by Heart
-
-### Titel
-album_37B7F5E9_3941_E14A_41B6_9770801E743F.label = Fotoalbum artificial
-album_37B7F5E9_3941_E14A_41B6_9770801E743F_0.label = artificial
-album_37B7F5E9_3941_E14A_41B6_9770801E743F_1.label = employee
-album_37B7F5E9_3941_E14A_41B6_9770801E743F_2.label = first_snow
-album_37B7F5E9_3941_E14A_41B6_9770801E743F_3.label = inspired x public
-panorama_6DC00C01_61E0_08D1_41D0_A956CF453FC0.label = Naglschmid Store
-video_73AFFB48_6176_C051_41A7_647BF05F66DF.label = mantra
-video_A70E075B_AABD_AA39_41DF_BBF58CC1FD6A.label = glitch_logo
-
-## Aktion
-
-### URL
-LinkBehaviour_0EA6B539_017C_995D_4144_21B8507C7EE4.source = https://opensea.io/collection/cryptoshells-official
-LinkBehaviour_75B7F774_6156_4031_41C6_E09B05748A96.source = https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/108690560047819064180425704818779508239582057060168156382071447916998299746305/
-PopupWebFrameBehaviour_34204B30_3B73_BD29_41BE_A007769A8B86.url = library.html
+tour.name = Unbenannt 2
