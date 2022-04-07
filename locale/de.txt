@@ -1,13 +1,23 @@
 #: locale=de
 
+## Aktion
+
+### URL
+LinkBehaviour_14BD3EE0_05D8_E1F6_4192_2DB4F865D6CC.source = https://bafybeieppxewrvy4zgdntq22hk3mc5g3bv5jw5fateodb6wdoxxkjui4f4.ipfs.infura-ipfs.io/ARTIFICiAL_DARK_WHITE.pdf
+
 ## Media
 
 ### Titel
-panorama_C67549DA_CDC0_1712_41E0_9A65FA01D0D9.label = T0000 Panorama
+panorama_0FF52F62_05A8_E0FA_4173_830D890CA291.label = Naglschmid - Home
+video_0B744D6F_05AB_E0CA_4196_5E099984E24A.label = glitch_logo
+
+### Video
+videolevel_157453D7_05D9_E7DA_4182_D65247AB83DF.url = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_de.mp4
+videolevel_157453D7_05D9_E7DA_4182_D65247AB83DF.posterURL = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_poster_de.jpg
 
 ## Tour
 
 ### Beschreibung
 
 ### Titel
-tour.name = Unbenannt 2
+tour.name = Naglschmid
