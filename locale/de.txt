@@ -1,19 +1,31 @@
 #: locale=de
 
-## Aktion
+## Hotspot
 
-### URL
-LinkBehaviour_14BD3EE0_05D8_E1F6_4192_2DB4F865D6CC.source = https://bafybeieppxewrvy4zgdntq22hk3mc5g3bv5jw5fateodb6wdoxxkjui4f4.ipfs.infura-ipfs.io/ARTIFICiAL_DARK_WHITE.pdf
+### Text
+HotspotPanoramaOverlayTextImage_03783999_0EB6_C683_417B_D9D99DED6127.text = ARTIFICiAL #1 Dark White 2022 \
+SOLD 3 out of 1000 for 2 LRC
+HotspotPanoramaOverlayTextImage_3DBD9DB5_2D8B_233D_41C2_F93AB3A7A935.text = Apogee, 2022
+HotspotPanoramaOverlayTextImage_00831FAC_0ECB_7A81_418F_A21EA2A8CB7D.text = Welcome to NFT store
+HotspotPanoramaOverlayTextImage_036E698A_0EB6_C686_419A_B66CF7426A38.text = naglschmid.eth
+HotspotPanoramaOverlayTextImage_22506CE5_2D79_E15D_41AD_E47A7CFDA3FC.text = sold for 3 LRC
 
 ## Media
+
+### Image
+imlevel_22238CC6_2D99_215C_41B3_96A733BC22DF.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_bxgc19pj_de.png
+imlevel_22756B09_2D79_20D5_41C1_5F0FF4704E16.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_kin3zuup_de.png
+imlevel_2222FCD6_2D99_217C_417E_1E61301F425D.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_nwz60zw0_de.png
+imlevel_22228D05_2D99_20DD_419C_434DC19CA2B9.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_wpv6n5r4_de.png
+imlevel_012E29A1_0F08_7EC9_41A6_8FC32CDC7C53.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_yki57hts_de.png
 
 ### Titel
 panorama_0FF52F62_05A8_E0FA_4173_830D890CA291.label = Naglschmid - Home
 video_0B744D6F_05AB_E0CA_4196_5E099984E24A.label = glitch_logo
 
 ### Video
-videolevel_157453D7_05D9_E7DA_4182_D65247AB83DF.url = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_de.mp4
-videolevel_157453D7_05D9_E7DA_4182_D65247AB83DF.posterURL = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_poster_de.jpg
+videolevel_223F407F_2D99_E12C_41B5_E566687F34CC.url = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_de.mp4
+videolevel_223F407F_2D99_E12C_41B5_E566687F34CC.posterURL = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_poster_de.jpg
 
 ## Tour
 
