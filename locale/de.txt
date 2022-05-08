@@ -1,5 +1,12 @@
 #: locale=de
 
+## Aktion
+
+### URL
+LinkBehaviour_AD027DBB_A296_1FC0_41E0_BEF381E98DB3.source = https://bafybeieppxewrvy4zgdntq22hk3mc5g3bv5jw5fateodb6wdoxxkjui4f4.ipfs.infura-ipfs.io/ARTIFICiAL_DARK_WHITE.pdf
+LinkBehaviour_ACFA6DC4_A29A_FF47_41BB_116C13447EC3.source = https://twitter.com/naglschmid
+LinkBehaviour_ADF3AE00_A29A_1CC0_41E3_64215E0C67F2.source = https://www.reddit.com/user/MatthiasNaglschmid
+
 ## Hotspot
 
 ### Text
@@ -7,7 +14,7 @@ HotspotPanoramaOverlayTextImage_40A19523_4E0A_4977_41C4_0D6FB9C3ED49.text = ARTI
 HotspotPanoramaOverlayTextImage_408D9E77_4E06_3BD0_419D_5C9EB69B7BC1.text = ARTIFICiAL No. 002 "Apogee" PNG 1 pcs.
 HotspotPanoramaOverlayTextImage_415ADCEF_4E07_D8CF_41BA_1106F18BE490.text = ARTIFICiAL No. 003 "Pulsar" PNG 1 pcs.
 HotspotPanoramaOverlayTextImage_4336DBB5_4E06_F950_41BB_140EF07F8A95.text = ARTIFICiAL No. 004 "Intermezzo" PNG 1 pcs.
-HotspotPanoramaOverlayTextImage_00831FAC_0ECB_7A81_418F_A21EA2A8CB7D.text = Welcome to the NFT store
+HotspotPanoramaOverlayTextImage_00831FAC_0ECB_7A81_418F_A21EA2A8CB7D.text = Welcome to my NFT store
 HotspotPanoramaOverlayTextImage_46718DDE_48EB_8067_41D2_357EAE0571CA.text = naglschmid.eth
 
 ## Media
@@ -16,7 +23,7 @@ HotspotPanoramaOverlayTextImage_46718DDE_48EB_8067_41D2_357EAE0571CA.text = nagl
 imlevel_5EB84F1C_4E1A_5951_41B8_E474EC391126.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_bm1gxj7x_de.png
 imlevel_5EB60EBE_4E1A_5B51_41BE_AC9F9B8BD7E5.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_buxtk6vg_de.png
 imlevel_5EB86F0C_4E1A_5931_41D1_AFED7F39082D.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_da3i8j20_de.png
-imlevel_4649F081_48EE_80DD_41C8_68B341019360.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_kin3zuup_de.png
+imlevel_ACEDC76B_A296_0B40_41BA_50222B9131C1.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_kin3zuup_de.png
 imlevel_4649F062_48EE_805E_41D0_A416D1C82C0B.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_vjhcjw30_de.png
 imlevel_5EB64EDD_4E1A_58D3_41C4_577A34F1382E.url = media/panorama_0FF52F62_05A8_E0FA_4173_830D890CA291_HS_ywbqhdkf_de.png
 
@@ -25,8 +32,13 @@ panorama_0FF52F62_05A8_E0FA_4173_830D890CA291.label = Naglschmid - Home
 video_0B744D6F_05AB_E0CA_4196_5E099984E24A.label = glitch_logo
 
 ### Video
-videolevel_5ED9AA66_4E1A_7BF1_41A4_DFEA952617F0.url = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_de.mp4
-videolevel_5ED9AA66_4E1A_7BF1_41A4_DFEA952617F0.posterURL = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_poster_de.jpg
+videolevel_AD97E32A_A296_04C0_41D7_4790A584799E.url = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_de.mp4
+videolevel_AD97E32A_A296_04C0_41D7_4790A584799E.posterURL = media/video_0B744D6F_05AB_E0CA_4196_5E099984E24A_poster_de.jpg
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = Matthias Naglschmid
 
 ## Tour
 
